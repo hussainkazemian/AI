@@ -1,4 +1,3 @@
-```markdown
 # AI Commenter & Thumbnail Generator
 
 This repository adds two AI-powered features to the existing Express TypeScript starter:
@@ -49,10 +48,8 @@ If not already installed, install dependencies:
 
 1) Comment generator
 - Postman: POST http://localhost:3000/api/v1/comments
-![comments generator](sr/public/comments.png)
+![comments generator](src/public/comments.png)
 
 2) Image generator (thumbnail)
 - Postman: POST http://localhost:3000/api/v1/images
 ![image generator](src/public/image-generator.png)
-
----
