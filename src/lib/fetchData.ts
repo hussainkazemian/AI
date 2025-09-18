@@ -20,3 +20,4 @@ const fetchData = async <T>(
 };
 
 export default fetchData;
+
