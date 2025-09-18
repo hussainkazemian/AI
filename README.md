@@ -53,3 +53,4 @@ If not already installed, install dependencies:
 2) Image generator (thumbnail)
 - Postman: POST http://localhost:3000/api/v1/images
 ![image generator](src/public/image-generator.png)
+![image generator](src/public/teacher.png)
